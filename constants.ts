@@ -1,0 +1,1 @@
+// Obsolete: Constants defined in script in index.html

@@ -1,2 +1,14 @@
-# TaskMore
-A gamified task management and Pomodoro timer application, now fully offline. Features include customizable Pomodoro, an item shop (The Collector's Emporium) for themes and trophies, AI-assisted task difficulty (The Oracle's Insight), enhanced reporting (The Scrivener's Archives), a Trophy Room, and an XP/Leveling system (The Ascension).
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
