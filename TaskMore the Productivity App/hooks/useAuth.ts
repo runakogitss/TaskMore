@@ -1,1 +1,0 @@
-// Obsolete: No Firebase Auth in offline version

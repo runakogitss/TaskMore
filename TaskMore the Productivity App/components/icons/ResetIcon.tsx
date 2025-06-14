@@ -1,1 +1,0 @@
-// Obsolete: SVG inlined in index.html

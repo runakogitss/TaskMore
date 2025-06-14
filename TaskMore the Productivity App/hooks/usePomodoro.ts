@@ -1,1 +1,0 @@
-// Obsolete: Pomodoro logic in script in index.html

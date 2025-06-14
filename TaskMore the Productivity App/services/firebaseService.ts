@@ -1,1 +1,0 @@
-// Obsolete: No Firebase in offline version

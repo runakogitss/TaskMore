@@ -1,1 +1,0 @@
-// Obsolete: Types are implicit or defined as needed in vanilla JS.
